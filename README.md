@@ -1,4 +1,4 @@
-### Introduction to Reciprocal Lattice
+# Introduction to Reciprocal Lattice
 #### Author: [Damodar Rajbhandari](mailto:damicristi7@live.com), Out-reach blogger at [Physics Log](http://www.physicslog.com/)  
 #### Work: I have created a beamer-like template for Microsoft presentation.
 #### Guide: This is a Breamer-like Power-point template. I've used Microsoft Office 2013 to make this template. To edit this template, open the file and go-to View → Slide Master and edit it and close the Master view.
